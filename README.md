@@ -1,2 +1,4 @@
-# gtceu_refreshed
-Resource Pack for GTCEu Modern mod
+# GregTech: Refreshed
+A modern Resource Pack for GregTech mod
+
+didn't really want to write anything here yet...
