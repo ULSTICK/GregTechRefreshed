@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/ULSTICK/GregTechRefreshed/blob/main/images/gregtech_refreshed.png?raw=true"></h1>
+<h1 align="center"><img src="https://i.imgur.com/McJPOLa.png"></h1>
 <h1 align="center">
     <img src="https://img.shields.io/badge/Version-BETA--0.1-red?style=for-the-badge">
 </h1>
@@ -11,9 +11,9 @@ Its time for a fresh change! Immerse yourself in a visually stunning world of in
 
 ## Images
 
-![Electric Blast Furnace](https://github.com/ULSTICK/GregTechRefreshed/blob/main/images/circuits_n_boards.png?raw=true)
-![Electric Blast Furnace](https://github.com/ULSTICK/GregTechRefreshed/blob/main/images/voltage_casigns.png?raw=true)
-![Electric Blast Furnace](https://github.com/ULSTICK/GregTechRefreshed/blob/main/images/ebf.png?raw=true)
+![Circuits and Boards](https://i.imgur.com/mmNDWmK.png)
+![Voltage Casings](https://i.imgur.com/E4RCq1B.png)
+![Electric Blast Furnace](https://i.imgur.com/b28YdZX.png)
 
 ## Credits
 
