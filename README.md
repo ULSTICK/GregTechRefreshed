@@ -19,3 +19,10 @@ Its time for a fresh change! Immerse yourself in a visually stunning world of in
 
 - Most Texture Ideas from [ZedTech ResourcePack](https://github.com/brachy84/zedtech-ceu)
 - Some Texture **taken and edited** from the [Create Mod](https://github.com/Creators-of-Create/Create)
+
+## Contributing 👥
+
+<p>
+    You can contribute to the pack!
+    I will personally review the texture submited. or you can backport the texture back to 1.12- gregtech, A sort of legacy branch will be provided
+</p>
