@@ -4,7 +4,7 @@
         "type": "CTM",
         "layer": "CUTOUT",
         "textures": [
-            "gtceu:block/casings/solid/machine_casing_palladium_substation_ctm"
+            "gregtech:blocks/casings/solid/machine_casing_palladium_substation_ctm"
         ],
         "extra": {
             "connect_inside": true
