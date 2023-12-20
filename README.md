@@ -1,4 +1,4 @@
-# GregTech: Refreshed
-A modern Resource Pack for GregTech mod
+![GregTech Refreshed](/images/gregtech_refreshed.png "GregTech Refreshed")
 
+A modern Resource Pack for GregTech mod
 didn't really want to write anything here yet...
