@@ -1,0 +1,13 @@
+{
+  "ctm": {
+    "ctm_version": 1,
+    "type": "CTM",
+    "layer": "CUTOUT",
+    "textures": [
+      "gregtech:blocks/casings/firebox/machine_casing_firebox_bronze_ctm"
+    ],
+        "extra": {
+            "connect_inside": true
+        }
+    }
+}
