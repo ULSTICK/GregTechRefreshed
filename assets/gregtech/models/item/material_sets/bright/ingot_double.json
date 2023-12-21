@@ -1,0 +1,8 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "gregtech:items/material_sets/bright/ingot",
+    "layer1": "gregtech:items/material_sets/bright/ingot_overlay",
+    "layer2": "gregtech:items/material_sets/bright/ingot_double_overlay"
+	}
+}

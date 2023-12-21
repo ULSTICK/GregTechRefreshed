@@ -1,0 +1,8 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "gregtech:items/tools/handle_file",
+    "layer1": "gregtech:items/tools/file",
+    "layer2": "gregtech:items/tools/file_overlay"
+  }
+}

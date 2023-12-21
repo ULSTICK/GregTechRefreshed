@@ -1,0 +1,8 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "gregtech:items/tools/knife_base",
+    "layer1": "gregtech:items/tools/knife",
+    "layer2": "gregtech:items/tools/knife_overlay"
+  }
+}
