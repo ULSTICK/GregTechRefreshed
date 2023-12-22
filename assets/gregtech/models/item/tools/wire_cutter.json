@@ -1,0 +1,8 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "gregtech:items/tools/wire_cutter_base",
+    "layer1": "gregtech:items/tools/wire_cutter",
+    "layer2": "gregtech:items/tools/wire_cutter_overlay"
+  }
+}
