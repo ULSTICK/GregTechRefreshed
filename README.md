@@ -1,7 +1,8 @@
 <h1 align="center"><img src="https://i.imgur.com/McJPOLa.png"></h1>
 <h1 align="center">
-    <img src="https://img.shields.io/badge/Version-BETA--0.1-red?style=for-the-badge">
-    <img src="https://img.shields.io/badge/MC-1.19|1.20-green?style=for-the-badge">
+    <img alt="Version" src="https://img.shields.io/badge/Version-BETA--0.2-red?style=for-the-badge">
+    <img alt="MC Version" src="https://img.shields.io/badge/MC-1.12|1.19|1.20-green?style=for-the-badge">
+    <img alt="Modrinth Badge" src="https://img.shields.io/badge/Modrinth-16181C?style=for-the-badge&logo=modrinth&link=https%3A%2F%2Fmodrinth.com%2Fresourcepack%2Fgregtech-refreshed">
 </h1>
 
 ### A modern Resource Pack for the GregTech Mod!
@@ -18,8 +19,9 @@ Its time for a fresh change! Immerse yourself in a visually stunning world of in
 
 ## Credits 📜
 
-- Most Texture Ideas from [ZedTech ResourcePack](https://github.com/brachy84/zedtech-ceu)
-- Some Texture **taken and edited** from the [Create Mod](https://github.com/Creators-of-Create/Create)
+- Most texture Ideas from [ZedTech ResourcePack](https://github.com/brachy84/zedtech-ceu)
+- Some texture **taken and edited** from the [Create Mod](https://github.com/Creators-of-Create/Create)
+- Knife texture **taken and edited** from [Farmers Delight](https://github.com/vectorwing/FarmersDelight)
 
 ## Contributing 👥
 
