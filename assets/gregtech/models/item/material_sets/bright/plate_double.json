@@ -1,8 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "gregtech:items/material_sets/bright/plate",
-    "layer1": "gregtech:items/material_sets/bright/plate_overlay",
-    "layer2": "gregtech:items/material_sets/bright/plate_double_overlay"
+    "layer0": "gregtech:items/material_sets/bright/plate_double",
+    "layer1": "gregtech:items/material_sets/bright/plate_double_overlay"
   }
 }
