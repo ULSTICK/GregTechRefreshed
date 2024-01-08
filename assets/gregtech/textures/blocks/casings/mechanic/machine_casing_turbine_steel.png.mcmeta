@@ -1,0 +1,13 @@
+{
+    "ctm": {
+        "ctm_version": 1,
+        "type": "CTM",
+        "layer": "CUTOUT",
+        "textures": [
+            "gregtech:blocks/casings/mechanic/machine_casing_turbine_steel_ctm"
+        ],
+        "extra": {
+            "connect_inside": true
+        }
+    }
+}
