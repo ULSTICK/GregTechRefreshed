@@ -1,0 +1,16 @@
+{
+  "animation": {
+    "frametime": 1
+  },
+    "ctm": {
+        "ctm_version": 1,
+        "type": "CTM",
+        "layer": "CUTOUT",
+        "textures": [
+            "gregtech:blocks/casings/unique/slicing_blades_on_ctm"
+        ],
+        "extra": {
+            "connect_inside": true
+        }
+    }
+}
