@@ -1,6 +1,7 @@
 {
-  "parent": "gregtech:items/material_sets/shiny/nugget",
+  "parent": "item/generated",
   "textures": {
-    "layer2": "gregtech:items/material_sets/bright/nugget_overlay"
+    "layer0": "gregtech:items/material_sets/bright/nugget",
+    "layer1": "gregtech:items/material_sets/bright/nugget_overlay"
   }
 }

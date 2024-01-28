@@ -1,0 +1,6 @@
+{
+  "parent": "gregtech:item/material_sets/dull/ring",
+  "textures": {
+    "layer1": "gregtech:items/material_sets/bright/ring_overlay"
+  }
+}

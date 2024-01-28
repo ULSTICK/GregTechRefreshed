@@ -1,5 +1,5 @@
 {
-  "parent": "gregtech:items/material_sets/metallic/ingot",
+  "parent": "gregtech:item/material_sets/metallic/ingot",
   "textures": {
     "layer2": "gregtech:items/material_sets/metallic/ingot_double_overlay"
   }
