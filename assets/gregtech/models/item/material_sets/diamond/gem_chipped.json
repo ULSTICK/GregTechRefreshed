@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "gregtech:items/material_sets/diamond/gem_chipped",
+    "layer1": "gregtech:items/material_sets/diamond/gem_chipped_overlay"
+  }
+}
