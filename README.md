@@ -1,8 +1,9 @@
 <h1 align="center"><img src="https://i.imgur.com/McJPOLa.png"></h1>
 <h1 align="center">
-    <img alt="Version" src="https://img.shields.io/badge/Version-BETA--0.2-red?style=for-the-badge">
+    <img alt="Version" src="https://img.shields.io/badge/Version-BETA--0.6-red?style=for-the-badge">
     <img alt="MC Version" src="https://img.shields.io/badge/MC-1.12|1.19|1.20-green?style=for-the-badge">
-    <img alt="Modrinth Badge" src="https://img.shields.io/badge/Modrinth-16181C?style=for-the-badge&logo=modrinth&link=https%3A%2F%2Fmodrinth.com%2Fresourcepack%2Fgregtech-refreshed">
+    <img alt="Modrinth" src="https://img.shields.io/badge/Modrinth-16181C?style=for-the-badge&logo=modrinth&link=https%3A%2F%2Fmodrinth.com%2Fresourcepack%2Fgregtech-refreshed">
+    <img alt="CurseForge" src="https://img.shields.io/badge/CurseForge-16181C?style=for-the-badge&logo=curseforge&link=https%3A%2F%2Fwww.curseforge.com%2Fminecraft%2Ftexture-packs%2Fgregtech-refreshed">
 </h1>
 
 ### A modern Resource Pack for the GregTech Mod!
