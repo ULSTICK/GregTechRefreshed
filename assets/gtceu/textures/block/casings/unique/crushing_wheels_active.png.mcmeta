@@ -1,0 +1,9 @@
+{
+  "ldlib": {
+    "connection": "gtceu:block/casings/unique/crushing_wheels_active_ctm"
+  },
+  "animation": {
+    "interpolate": false,
+    "frametime": 2
+  }
+}
