@@ -1,0 +1,14 @@
+{
+  "ctm": {
+    "ctm_version": 1,
+    "type": "CTM",
+    "layer": "CUTOUT",
+    "textures": [
+      "gregtech:blocks/casings/signs/machine_casing_stripes_a_ctm"
+        ],
+        "extra": {
+            "connect_inside": true
+        }
+    }
+}
+
