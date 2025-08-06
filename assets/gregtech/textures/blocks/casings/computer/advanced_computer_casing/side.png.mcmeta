@@ -1,0 +1,13 @@
+{
+    "ctm": {
+        "ctm_version": 1,
+        "type": "CTM",
+        "layer": "CUTOUT",
+        "textures": [
+            "gregtech:blocks/casings/computer/advanced_computer_casing/side_ctm"
+        ],
+        "extra": {
+            "connect_inside": true
+        }
+    }
+}

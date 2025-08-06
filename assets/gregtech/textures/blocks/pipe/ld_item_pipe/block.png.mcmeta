@@ -1,0 +1,13 @@
+{
+    "ctm": {
+        "ctm_version": 1,
+        "type": "CTM",
+        "layer": "CUTOUT",
+        "textures": [
+            "gregtech:blocks/pipe/ld_item_pipe/block_ctm"
+        ],
+        "extra": {
+            "connect_inside": true
+        }
+    }
+}
