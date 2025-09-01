@@ -24,8 +24,8 @@ Its time for a fresh change! Immerse yourself in a visually stunning world of in
 - Some texture **taken and edited** from the [Create Mod](https://github.com/Creators-of-Create/Create)
 - Knife texture **taken and edited** from [Farmers Delight](https://github.com/vectorwing/FarmersDelight)
 
-## Contributing 👥
+## Modpacks & Other Stuff 👥
 
 <p>
-You can contribute to the pack! I will personally review the texture submited. or you can backport the texture back to 1.12- gregtech, A sort of legacy branch will be provided
+You are free to use and edit the textures for your own modpack or your other personal project! (A Credit will be appreciated)
 </p>
